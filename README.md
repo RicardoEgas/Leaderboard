@@ -3,7 +3,7 @@
 <div align="center">
  
 
-  <h3><b>To Do List</b></h3>
+  <h3><b>Leaderboard</b></h3>
 
 </div>
 
@@ -33,7 +33,7 @@
 
 # 📖 [To Do List] <a name="about-project"></a>
 
-To Do List is a project which consists in giving some basic functionality for adding and removing tasks from a checklist.
+Leaderboard is a project which consists in updating scores fron a player into a leaderboard.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,9 +51,8 @@ To Do List is a project which consists in giving some basic functionality for ad
 
 
 - **[Webpack]**
-- **[Arrays]**
-- **[Test unit]**
-- **[Dynamic HTML]**
+- **[ES6]**
+
 
 
 
@@ -77,7 +76,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 ```sh
   cd my-folder
-  git clone https://github.com/RicardoEgas/Awesome-Books.git
+  git clone https://github.com/RicardoEgas/Leaderboard.git
 ```
 
 
@@ -99,7 +98,7 @@ To run tests, run the following command:
 - npx eslint .
 - npx hint .
 - npx stylelint "**/*.{css,scss}"
-- npm test
+
 
 ### Deployment
 
@@ -120,19 +119,12 @@ GitHub Pages
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ricardo-egas-952125136)
 
 
-👤 **Menendez NELSON**
-
-- GitHub: [@menendezon](https://github.com/menendezon)
-- Twitter: [@menendezon](https://twitter.com/menendezon)
-- LinkedIn: [MenendezON](https://linkedin.com/in/menendezon)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Styling]**
+- [ ] **[APIs]**
 - [ ] **[Functionality]**
 - [ ] **[Improved UI]**
 
