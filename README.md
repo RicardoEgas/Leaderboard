@@ -19,24 +19,23 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [⭐️ Show your support](#show-your-support)
+- [🙏 Acknowledgements](#acknowledgments)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [To Do List] <a name="about-project"></a>
+# About Project
 
 Leaderboard is a project which consists in updating scores fron a player into a leaderboard.
 
-## 🛠 Built With <a name="built-with"></a>
+## Built With
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack 
 
 <details>
   <summary>Client</summary>
@@ -46,18 +45,18 @@ Leaderboard is a project which consists in updating scores fron a player into a 
   </ul>
 </details>
 
-### Key Features <a name="key-features"></a>
+### Key Features
 
 
 - **[Webpack]**
 - **[ES6]**
-
+- **[API]
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started
 
 
 To get a local copy up and running, follow these steps.
@@ -108,7 +107,7 @@ GitHub Pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
+## Authors 
 
 
 👤 **Ricardo Egas**
@@ -120,18 +119,16 @@ GitHub Pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
+##  Future Features 
 
 
-- [ ] **[APIs]**
-- [ ] **[Functionality]**
+- [ ] **[Styling]**
 - [ ] **[Improved UI]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing <a name="contributing"></a>
+##  Contributing <a name="contributing"></a>
 
-<a name="contributing" href=""></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -139,14 +136,14 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ⭐️ Show your support <a name="support"></a>
+##  Show your support 
 
 
 If you like this project give me a star⭐️!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+##  Acknowledgments
 
 I would like to thank Microverse!
 
@@ -154,7 +151,7 @@ I would like to thank Microverse!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
+##  License 
 
 This project is [MIT](./LICENSE) licensed.
 

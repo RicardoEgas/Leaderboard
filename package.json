@@ -23,4 +23,5 @@
     "lodash": "^4.17.21",
     "node-polyfill-webpack-plugin": "^2.0.1"
   }
+  
 }
